@@ -1,2 +1,4 @@
 # hello-world
 a place to wright ideas and comunicate with others
+
+Im a Machine Operator and have worked in manufacturing for over a decade now. My goal was always to get to a pay grade that would allow me to pay my own way through college. 3 years ago I got my wish and I now have an associates degree in applied science with a major in computer programming. I have experience with SQL(could use more), HTML5, CSS, javascript and Visual Basic. Unfortunatley an associates only gives you the intros to those so I am not the best. what I am good at however is C# and Java and I am good at them in that order. I hold certifications from my college as an advance programmer in both those languages. Starting August I will begin earnoing my bachelors degree which from my understanding will be required of me if I wish to make any use of my associates.
